@@ -34,7 +34,7 @@ export default function PostCard({post}: PostCardProps) {
                     Comment
                 </button>
             </div>
-        <div>
+        </div>
     )
 }
 ```
@@ -58,7 +58,7 @@ export default function PostCard({isLoggedIn, post}: PostCardProps) {
                     Comment
                 </button>
             </div>
-        <div>
+        </div>
     )
 }
 ```
